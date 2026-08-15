@@ -119,8 +119,8 @@ forecast_time,city,temp,humidity,condition
 2026-08-20 00:00:00,Delhi,28.62,76,Rain
 2026-08-20 03:00:00,Delhi,29.7,71,Rain
 2026-08-20 06:00:00,Delhi,34.92,50,Rain
-2026-08-15 09:00:00,Chennai,34.62,55,Clouds
-2026-08-15 12:00:00,Chennai,33.8,65,Clouds
+2026-08-15 09:00:00,Chennai,34.66,53,Clouds
+2026-08-15 12:00:00,Chennai,33.82,64,Clouds
 2026-08-15 15:00:00,Chennai,30.66,73,Clouds
 2026-08-15 18:00:00,Chennai,30.09,66,Clouds
 2026-08-15 21:00:00,Chennai,29.11,54,Clouds
