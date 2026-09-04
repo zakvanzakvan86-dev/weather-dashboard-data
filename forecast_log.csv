@@ -1,7 +1,7 @@
 forecast_time,city,temp,humidity,condition
-2026-09-05 00:00:00,Bengaluru,22.53,85,Clouds
-2026-09-05 03:00:00,Bengaluru,23.95,73,Clouds
-2026-09-05 06:00:00,Bengaluru,28.8,44,Clouds
+2026-09-05 00:00:00,Bengaluru,21.39,90,Clouds
+2026-09-05 03:00:00,Bengaluru,22.56,82,Clouds
+2026-09-05 06:00:00,Bengaluru,26.33,59,Clouds
 2026-09-05 09:00:00,Bengaluru,28.92,35,Clouds
 2026-09-05 12:00:00,Bengaluru,31,34,Clouds
 2026-09-05 15:00:00,Bengaluru,32.13,41,Clouds
@@ -39,9 +39,9 @@ forecast_time,city,temp,humidity,condition
 2026-09-09 15:00:00,Bengaluru,26.61,47,Clouds
 2026-09-09 18:00:00,Bengaluru,24.16,60,Clouds
 2026-09-09 21:00:00,Bengaluru,21.91,76,Clouds
-2026-09-05 00:00:00,Mumbai,27.74,78,Rain
-2026-09-05 03:00:00,Mumbai,27.88,75,Rain
-2026-09-05 06:00:00,Mumbai,28.55,71,Rain
+2026-09-05 00:00:00,Mumbai,27.99,78,Rain
+2026-09-05 03:00:00,Mumbai,27.94,76,Rain
+2026-09-05 06:00:00,Mumbai,28.36,73,Rain
 2026-09-05 09:00:00,Mumbai,28.96,70,Rain
 2026-09-05 12:00:00,Mumbai,28.61,73,Rain
 2026-09-05 15:00:00,Mumbai,27.97,76,Rain
@@ -79,9 +79,9 @@ forecast_time,city,temp,humidity,condition
 2026-09-09 15:00:00,Mumbai,27.71,79,Rain
 2026-09-09 18:00:00,Mumbai,27.62,78,Rain
 2026-09-09 21:00:00,Mumbai,27.15,79,Rain
-2026-09-05 00:00:00,Delhi,26.42,91,Clouds
-2026-09-05 03:00:00,Delhi,26.78,82,Clouds
-2026-09-05 06:00:00,Delhi,27.45,77,Clouds
+2026-09-05 00:00:00,Delhi,25.96,100,Clouds
+2026-09-05 03:00:00,Delhi,26.35,93,Clouds
+2026-09-05 06:00:00,Delhi,26.95,84,Clouds
 2026-09-05 09:00:00,Delhi,29.69,66,Rain
 2026-09-05 12:00:00,Delhi,27.39,76,Rain
 2026-09-05 15:00:00,Delhi,27.21,71,Rain
@@ -119,9 +119,9 @@ forecast_time,city,temp,humidity,condition
 2026-09-09 15:00:00,Delhi,36.97,29,Clouds
 2026-09-09 18:00:00,Delhi,35.2,33,Clouds
 2026-09-09 21:00:00,Delhi,33.86,32,Clouds
-2026-09-05 00:00:00,Chennai,27.51,81,Rain
-2026-09-05 03:00:00,Chennai,29.1,73,Rain
-2026-09-05 06:00:00,Chennai,32.29,58,Rain
+2026-09-05 00:00:00,Chennai,27.73,84,Rain
+2026-09-05 03:00:00,Chennai,28.31,80,Rain
+2026-09-05 06:00:00,Chennai,30.77,66,Rain
 2026-09-05 09:00:00,Chennai,31.48,65,Clouds
 2026-09-05 12:00:00,Chennai,30.86,70,Clouds
 2026-09-05 15:00:00,Chennai,29.45,78,Clouds
@@ -159,9 +159,9 @@ forecast_time,city,temp,humidity,condition
 2026-09-09 15:00:00,Chennai,29.87,67,Clouds
 2026-09-09 18:00:00,Chennai,28.4,72,Clouds
 2026-09-09 21:00:00,Chennai,28.44,69,Clouds
-2026-09-05 00:00:00,Kolkata,27.48,92,Rain
-2026-09-05 03:00:00,Kolkata,29.33,78,Rain
-2026-09-05 06:00:00,Kolkata,32.81,59,Rain
+2026-09-05 00:00:00,Kolkata,26.97,94,Rain
+2026-09-05 03:00:00,Kolkata,27.95,87,Rain
+2026-09-05 06:00:00,Kolkata,30.86,70,Rain
 2026-09-05 09:00:00,Kolkata,32.97,58,Rain
 2026-09-05 12:00:00,Kolkata,29.93,73,Rain
 2026-09-05 15:00:00,Kolkata,28.14,80,Clouds
