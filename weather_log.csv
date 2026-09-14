@@ -2954,3 +2954,8 @@ timestamp,city,temp,humidity,wind_speed,condition
 2026-09-14 05:48:54,Delhi,32.96,66,5.14,Clear
 2026-09-14 05:48:54,Chennai,32.82,72,4.12,Clouds
 2026-09-14 05:48:54,Kolkata,32.97,62,0,Clear
+2026-09-14 11:53:00,Bengaluru,28.4,58,6.17,Rain
+2026-09-14 11:53:00,Mumbai,28.99,74,6.69,Rain
+2026-09-14 11:53:00,Delhi,34.96,59,4.12,Clouds
+2026-09-14 11:53:00,Chennai,31.53,72,5.14,Clouds
+2026-09-14 11:53:00,Kolkata,31.97,66,2.06,Clouds
