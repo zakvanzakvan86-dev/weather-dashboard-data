@@ -3804,3 +3804,8 @@ timestamp,city,temp,humidity,wind_speed,condition
 2026-10-17 22:53:47,Delhi,20.96,100,0,Clear
 2026-10-17 22:53:47,Chennai,24.96,98,1.79,Rain
 2026-10-17 22:53:47,Kolkata,24.97,94,0,Clouds
+2026-10-18 00:39:35,Bengaluru,20.93,94,1.54,Clouds
+2026-10-18 00:39:36,Mumbai,28.99,79,0,Clouds
+2026-10-18 00:39:36,Delhi,19.96,94,1.54,Clear
+2026-10-18 00:39:36,Chennai,24.7,97,2.57,Rain
+2026-10-18 00:39:36,Kolkata,25.97,94,2.57,Clear
