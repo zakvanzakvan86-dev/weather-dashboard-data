@@ -4294,3 +4294,8 @@ timestamp,city,temp,humidity,wind_speed,condition
 2026-11-07 19:53:16,Delhi,17.96,94,1.03,Mist
 2026-11-07 19:53:17,Chennai,26.95,88,1.54,Mist
 2026-11-07 19:53:17,Kolkata,23.97,83,2.06,Mist
+2026-11-07 23:25:39,Bengaluru,20.71,91,2.57,Mist
+2026-11-07 23:25:39,Mumbai,26.99,44,4.12,Smoke
+2026-11-07 23:25:39,Delhi,19.05,82,0,Mist
+2026-11-07 23:25:39,Chennai,24.8,95,2.06,Thunderstorm
+2026-11-07 23:25:39,Kolkata,21.97,88,2.06,Mist
