@@ -4564,3 +4564,8 @@ timestamp,city,temp,humidity,wind_speed,condition
 2026-11-23 07:19:54,Delhi,23.96,53,4.12,Haze
 2026-11-23 07:19:54,Chennai,29.97,80,3.6,Mist
 2026-11-23 07:19:54,Kolkata,28.97,74,2.06,Haze
+2026-11-23 19:51:26,Bengaluru,22.44,84,3.6,Rain
+2026-11-23 19:51:26,Mumbai,28.99,48,0,Smoke
+2026-11-23 19:51:26,Delhi,14.96,94,2.57,Mist
+2026-11-23 19:51:26,Chennai,25.07,97,2.06,Drizzle
+2026-11-23 19:51:26,Kolkata,22.97,94,1.54,Haze
